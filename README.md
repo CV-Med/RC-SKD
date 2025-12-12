@@ -1,4 +1,4 @@
-<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/a7215b00-ae6b-4155-976d-f43a22547fc3" /># Reinforcement Compression and Sample Knowledge Distillation Method for Brain MRI Diagnosis
+# Reinforcement Compression and Sample Knowledge Distillation Method for Brain MRI Diagnosis
 
 ## Overview
 
