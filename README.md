@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data/fig1.png" width="720" alt="RC-SKD Architecture"/>
+  <img src="data/fig1.png" width="520" alt="RC-SKD Architecture"/>
 </p>
 
 <h1 align="center">RC-SKD: Reinforcement Compression and Sample Knowledge Distillation for Brain Image Diagnosis</h1>
