@@ -7,12 +7,14 @@ dist/
 build/
 
 # Model weights
-weights/
+weights/*
+!weights/.gitkeep
 *.pth
 *.zip
 
-# Data
-data/*/
+# Data - ignore actual dataset but keep download.txt
+data/*/images/
+data/*/masks/
 
 # IDE / OS
 .vscode/
@@ -21,6 +23,5 @@ data/*/
 Thumbs.db
 
 # Logs & temp
-*.txt
 *.log
 *.json
