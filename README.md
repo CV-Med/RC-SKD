@@ -437,10 +437,9 @@ RC-SKD/
 If you use this code or find our work useful, please cite:
 
 ```bibtex
-@article{zhou2025rcskd,
+@article{rcskd2026,
   title={Reinforcement Compression and Sample Knowledge Distillation Method for Brain Image Diagnosis},
-  author={Zhou, Bo and Xiao, Li and Fan, Cheng},
-  year={2025}
+  year={2026}
 }
 ```
 
